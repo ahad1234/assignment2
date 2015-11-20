@@ -1,0 +1,11 @@
+A simple widget web-app containing 3 widgets 
+1- Analog clock 
+2- Calendar that shows current date and yearly view 
+3- Weather widget that shows temperature of Islamabad, Pakistan. 
+
+Main coding of this web-app is done in JavaScript, JQuery ( Functionality), HTML5( Basics ), CSS3 (Layout). 
+When MainPage.html is executed in a browser, user can see three widgets on the dashboard. 
+User can then select any of the shown widgets which is then shown bigger and at the center of the screen.
+When a specific widget is focused, user can get access to the Dashboard by just clicking on the "Dashboard" button which reloads the page and all the widgets are visible again.
+
+Github Link : https://github.com/ahad1234/assignment2.git
